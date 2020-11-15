@@ -1,0 +1,43 @@
+ Proposal
+
+## What will (likely) be the title of your project?
+
+Quarentine Cards!
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+For the project, I would really like to code a website. The website will pretty much be an E-card generator. It will be themed, becuase we are in quarentine. So it'll be updates to send to friends and loved ones.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+The purpose of the project is to build a generator that will allow for the user to customize thier own E-card. With us being in quarentine, the E-cards could be updates on what you're doing inside in quarentine, because social settings have been limited.
+It will be written in python, I also plan on trying to incorporate some CSS or HTML to make the website more pleasing to look at and use. The user will be able to pick the color of the card, add photos, or use stickers/photos from the gallery I will provide.
+A text box to write a note, and lastly they will be able to  send it to people. If I can I would like to include a search bar that will find a song that you would like to include. And it will include a little barcode on the bottom of the card. So when the recipient gets the card, 
+they can scan it and it will bring up the song the user wanted. 
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+None 
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+None
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+I'd really like to be able to make the website, have the user be able to customize a card, and send it to their desired recipient. I might not be able to add the scanning part with the music at the end. 
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Everthing including the scanning part for the song. 
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+For the absolute best outcome, I would like to have everything that I planned mentioned- including the scanning part, and more. Specifically, I would like for the user to be able to include videos as well as photos. 
+I'm not sure if that will allow it, hopefully it will. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+Besides coding the website, I need to become very good at CSS and HTML because those are necessary for the user experience to be enjoyable. I need to somehow learn how to connect with API's that 
+will allow for me to have a search bar that can find songs for the scanning/barcode portion of the card. 
+
+
